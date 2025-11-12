@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋 I'm Tony!
+
+I’m a research assistant specializing in **mechatronics and AI applications**.  
+Currently exploring the intersection of **smart machinery, image recognition, and large language models (LLMs)**.  
+I enjoy building tools that bridge hardware, data, and intelligence.
 
 <!--
 **tonyxlab/tonyxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
